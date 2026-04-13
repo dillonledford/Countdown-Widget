@@ -33,7 +33,7 @@ pip install customtkinter
 ## Usage
 
 ```bash
-python Countdown-Widget.py
+python countdown-widget.py
 ```
 
 1. Enter a title and your desired countdown duration
