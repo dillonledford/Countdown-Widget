@@ -41,3 +41,4 @@ python countdown.py
 3. Drag the timer wherever you want on screen
 4. Right-click the timer to exit
 
+<b>`I wanted a way to track how long I had left on game events as a simple countdown widget on my desktop.`</b>
