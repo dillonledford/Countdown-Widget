@@ -14,8 +14,7 @@ A minimal always-on-top desktop countdown timer built with Python and tkinter. S
 
 ## Requirements
 
-- Python 3.8+
-- [customtkinter](https://github.com/TomSchimansky/CustomTkinter)
+- Python 3.x
 
 ## Installation
 
