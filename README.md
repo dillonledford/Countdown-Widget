@@ -3,8 +3,7 @@
 A minimal always-on-top desktop countdown timer built with Python and tkinter.
 Set a title and duration, then a frameless HUD overlay floats on your screen while you work.
 
-![Python](https://img.shields.io/badge/python-3.8+-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+---
 
 ## Features
 
@@ -13,15 +12,21 @@ Set a title and duration, then a frameless HUD overlay floats on your screen whi
 - Draggable — click and drag to reposition anywhere on screen
 - Right-click to exit
 
+---
+
 ## Requirements
 
 - Python 3.x
+
+---
 
 ## Installation
 
 ```bash
 pip install customtkinter
 ```
+
+---
 
 ## Usage
 
