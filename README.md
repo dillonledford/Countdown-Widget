@@ -1,6 +1,7 @@
 # Countdown Widget
 
-A minimal always-on-top desktop countdown timer built with Python and tkinter. Set a title and duration, then a frameless HUD overlay floats on your screen while you work.
+A minimal always-on-top desktop countdown timer built with Python and tkinter.
+Set a title and duration, then a frameless HUD overlay floats on your screen while you work.
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
