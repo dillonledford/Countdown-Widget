@@ -43,4 +43,4 @@ python countdown.py
 
 ---
 
-<b>`I wanted a way to track how long I had left on game events as a simple countdown widget on my desktop.`</b>
+<b>`I wanted a way to track how long I had left on game events with a simple countdown widget on my desktop.`</b>
