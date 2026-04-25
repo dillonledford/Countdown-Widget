@@ -3,7 +3,7 @@
 A minimal always-on-top desktop countdown timer built with Python and tkinter.
 Set a title and duration, then a frameless HUD overlay floats on your screen while you work.
 
-<picture><img width="184" height="275" alt="Image" src="https://github.com/user-attachments/assets/3886fd9c-a25f-47eb-b504-535d40316ec5" /><img width="184" height="275" alt="Image" src="https://github.com/user-attachments/assets/fe00a5da-c070-4cb5-b641-ef557f8a8aae" /><img width="184" height="275" alt="Image" src="https://github.com/user-attachments/assets/bdfce401-648a-42ed-8ea0-4a52aa14db97" /></picture>
+<picture><img width="184" height="275" alt="Image" src="https://github.com/user-attachments/assets/3886fd9c-a25f-47eb-b504-535d40316ec5" /><img width="184" height="275" alt="Image" src="https://github.com/user-attachments/assets/bdfce401-648a-42ed-8ea0-4a52aa14db97" /></picture>
 
 ---
 
